@@ -2,6 +2,9 @@
 
 正文入口：[README.md](README.md)  
 PDF 文件：[rag_agent_interview_guide.pdf](rag_agent_interview_guide.pdf)
+目录图片：[目录卡片](TABLE_OF_CONTENTS_CARD.png) · [完整目录长图](TABLE_OF_CONTENTS.png)
+
+![RAG Agent 面试技术文档目录卡片](TABLE_OF_CONTENTS_CARD.png)
 
 ## 阅读路径
 

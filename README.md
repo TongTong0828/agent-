@@ -2,7 +2,7 @@
 
 副标题：从向量检索到可信 Agent 问答的面试准备资料
 
-[完整目录](TABLE_OF_CONTENTS.md) · [PDF 文件](rag_agent_interview_guide.pdf)
+[完整目录](TABLE_OF_CONTENTS.md) · [目录卡片](TABLE_OF_CONTENTS_CARD.png) · [完整目录长图](TABLE_OF_CONTENTS.png) · [PDF 文件](rag_agent_interview_guide.pdf)
 
 适用对象：
 
