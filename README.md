@@ -1,3 +1,9 @@
+需要购买和学习对应的 agent/rag 项目可以通过二维码添加作者。
+
+<p>
+  <img src="assets/author-wechat-qr.jpg" alt="添加作者二维码" width="260" />
+</p>
+
 # RAG Agent 面试八股文
 
 副标题：从向量检索到可信 Agent 问答的面试准备资料
